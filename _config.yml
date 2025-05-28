@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Jessica Huynh"
   pronouns         : "she/her"  
-  bio              : "PhD Student at Carnegie Mellon University"
+  bio              : #"PhD Student at Carnegie Mellon University"
   location         : #"Earth"
   employer         : "Carnegie Mellon University"
   uri              : # URL
